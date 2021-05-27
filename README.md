@@ -30,10 +30,12 @@ apt update -y ; apt upgrade -y ; apt install nodejs -y ; apt install python2 -y 
 
 ### [[[ OPTIONS ]]]
 
-```(√) PUBLIC ID CLONING
+```
+(√) PUBLIC ID CLONING
 (√)FOLLOWERS CLONING
 (√) CLONE FROM FILE
-(√)CLONE WITH CHOOSE PASS ```
+(√)CLONE WITH CHOOSE PASS
+```
 
 # WARNING :
 `THIS TOOL IS ONLY FOR EDUCATIONAL PURPOSE.
